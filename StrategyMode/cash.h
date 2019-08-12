@@ -48,6 +48,7 @@ public:
 	}
 };
 
+/*
 class OperatorFactor
 {
 
@@ -83,6 +84,7 @@ public:
 		//觉得这里不应该析构
 	}
 };
+*/
 
 class CContextCash
 {
