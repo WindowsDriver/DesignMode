@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstrctFactoryMode", "Abstr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleFactoryMode", "SingleFactoryMode\SingleFactoryMode.vcxproj", "{EDC4B473-3E02-4825-942B-88FC0E387B7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrategyMode", "StrategyMode\StrategyMode.vcxproj", "{42679317-BA81-4B26-A44D-DEB92B79BB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{EDC4B473-3E02-4825-942B-88FC0E387B7A}.Release|x64.Build.0 = Release|x64
 		{EDC4B473-3E02-4825-942B-88FC0E387B7A}.Release|x86.ActiveCfg = Release|Win32
 		{EDC4B473-3E02-4825-942B-88FC0E387B7A}.Release|x86.Build.0 = Release|Win32
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Debug|x64.ActiveCfg = Debug|x64
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Debug|x64.Build.0 = Debug|x64
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Debug|x86.ActiveCfg = Debug|Win32
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Debug|x86.Build.0 = Debug|Win32
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Release|x64.ActiveCfg = Release|x64
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Release|x64.Build.0 = Release|x64
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Release|x86.ActiveCfg = Release|Win32
+		{42679317-BA81-4B26-A44D-DEB92B79BB20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

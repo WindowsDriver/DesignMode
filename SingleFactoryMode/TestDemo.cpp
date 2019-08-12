@@ -12,13 +12,5 @@ int main()
 	_superCash->SetNumberB(220);
 	int _retValue = _superCash->GetCashResult();
 	std::cout << "the result is :" << _retValue << std::endl;
-	//exit(EXIT_SUCCESS);
-
-	// 测试下 策略者模式
-	SuperCash* pCashSuper = new OperatorMul();
-	CContextCash* ContextCash = new CContextCash(pCashSuper);
-	int retValue = ContextCash->GetResult();
-	std::cout << "计算的结果是：" << retValue << std::endl;
-
 
 }
