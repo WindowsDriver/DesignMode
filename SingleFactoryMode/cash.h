@@ -84,6 +84,7 @@ public:
 	}
 };
 
+/*
 class CContextCash
 {
 public:
@@ -111,7 +112,7 @@ public:
 		m_pSuperCash = NULL;
 	}
 };
-
+*/
 
 
 
