@@ -2,7 +2,7 @@
 #include "cash.h"
 
 //类的静态成员变量使用前要在main主函数前初始化
-SuperCash* OperatorFactor::cashSuper = NULL;
+//SuperCash* OperatorFactor::cashSuper = NULL;
 
 int main()
 {
